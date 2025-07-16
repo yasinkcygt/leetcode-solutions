@@ -1,0 +1,97 @@
+[33mcommit a6261c83959fdd4606f606605c261e9b0dd7a7c6[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Yasin <Yasinkygt@gmail.com>
+Date:   Tue Jul 15 17:55:32 2025 +0300
+
+    Deleted unnecessary files
+
+[33mcommit 331f0baeb6b1491fb4e8d117551ed65743836f13[m
+Author: Yasin <Yasinkygt@gmail.com>
+Date:   Tue Jul 15 17:53:04 2025 +0300
+
+    Add RomanToInt method with dictionary lookup
+
+[33mcommit 2454235503c45064087d2f8d0aa63e3316c9325b[m
+Merge: b8a519b a536963
+Author: Yasin <Yasinkygt@gmail.com>
+Date:   Tue Jul 15 17:42:15 2025 +0300
+
+    Merge branch 'main' of https://github.com/yasinkcygt/leetcode-solutions
+
+[33mcommit b8a519bda1864146f7afb9ee3370a18993176ed7[m
+Author: Yasin <Yasinkygt@gmail.com>
+Date:   Tue Jul 15 17:34:43 2025 +0300
+
+    Implemented RomanToInt function with dictionary lookup
+
+[33mcommit a536963bd17142c002cdfaa53cbd32e6d139091e[m
+Author: Yasin <Yasinkygt@gmail.com>
+Date:   Fri Jul 11 15:22:47 2025 +0300
+
+    Added a new solution in C++
+
+[33mcommit 0988d44e6908dcd6c60e823a241ee1bdc8f3d59d[m
+Author: Yasin <Yasinkygt@gmail.com>
+Date:   Fri Jul 11 15:18:12 2025 +0300
+
+    Move two_sum.c from C to CSharp
+
+[33mcommit a3049c77dd80f2c42be5f43d48b218068250f330[m
+Author: Yasin <Yasinkygt@gmail.com>
+Date:   Fri Jul 11 15:13:08 2025 +0300
+
+    Added a new solution in C
+
+[33mcommit a6e8e2dbeb139dccb7f41b5eb647312389ddfd6e[m
+Author: Yasin <Yasinkygt@gmail.com>
+Date:   Fri Jul 11 15:04:05 2025 +0300
+
+    Add README with list of solved Leetcode problems
+
+[33mcommit 47d99720b7e1e6c5d0d1c2305abc7f4385923b97[m
+Author: Yasin <Yasinkygt@gmail.com>
+Date:   Fri Jul 11 14:48:32 2025 +0300
+
+    Recreate C and C++ folders with solution files
+
+[33mcommit 4554022aa7b023b205c20322b7df71278cb8fe6c[m
+Author: Yasin <Yasinkygt@gmail.com>
+Date:   Fri Jul 11 14:42:54 2025 +0300
+
+    Remove broken C and C++ folders
+
+[33mcommit c16a5fce2c4204bf831e341a32089ccd0ec6580f[m
+Author: Yasin <Yasinkygt@gmail.com>
+Date:   Fri Jul 11 12:52:47 2025 +0300
+
+    Remove unwanted files
+
+[33mcommit ae9e8562a4aee4bcab602790edfab555b141526a[m
+Merge: 002a5f9 9adf9e5
+Author: Yasin <Yasinkygt@gmail.com>
+Date:   Fri Jul 11 12:45:44 2025 +0300
+
+    Merge branch 'main' of https://github.com/yasinkcygt/leetcode-solutions
+
+[33mcommit 002a5f9b06fd9370a9051d0198a58bc59104729e[m
+Author: Yasin <Yasinkygt@gmail.com>
+Date:   Fri Jul 11 12:41:41 2025 +0300
+
+    Add all solutions and remove embedded git repos
+
+[33mcommit 9adf9e5394337d0d3aefef5244536a2f2f335b5f[m
+Author: Yasin <Yasinkygt@gmail.com>
+Date:   Fri Jul 11 00:51:32 2025 +0300
+
+    Add Add Two Numbers C solution
+
+[33mcommit 3f55471c2d764f5c642ec6e73e1ae2cd37bc861e[m
+Author: Yasin <Yasinkygt@gmail.com>
+Date:   Fri Jul 11 00:34:53 2025 +0300
+
+    add README and Add Two Numbers C solution
+
+[33mcommit c95e0e26e8c06e58223d8ccd0267285e385e9742[m
+Author: Yasin <Yasinkygt@gmail.com>
+Date:   Fri Jul 11 00:36:57 2025 +0300
+
+    Initial commit
